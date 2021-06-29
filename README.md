@@ -1,4 +1,4 @@
-# Sound-Issue---Linux
+# Sound-Issue on Linux Resolved
 This script will permanently disable a cracking or poping sound or low frequency continuous noise produced when using headphones
 ## Usage
 Run the Script as root priviledges
